@@ -34,5 +34,5 @@ ExitProgram - Terminates execution
 
 **Project Contributors**
 Saleena Ahuja
-Sahil kumar valecha
-paras parveen
+Sahil Kumar Valecha
+Paras Parveen
